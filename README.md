@@ -1,7 +1,3 @@
-### Hi there 👋 I'm ✨ @ysricky ✨
+### Hi there 👋 I'm ✨ Yosua Ricky ✨
 
-®️ U S T A C E A N 🦀
-U 
-S
-T
-⚙️
+### Welcome to my Github repository
