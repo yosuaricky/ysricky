@@ -1,4 +1,4 @@
-![My Image](img/github-template-social-preview.png)
+![My Image](img/github-template-social-preview-removebg-preview.png)
 
 <p align="center"><strong>Hi there 👋 I'm ✨ Yosua Ricky ✨</strong></p>
 <br>
