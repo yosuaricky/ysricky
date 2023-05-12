@@ -1,6 +1,6 @@
 ![My Image](img/github-template-social-preview.png)
 
-### Hi there 👋 I'm ✨ Yosua Ricky ✨
+<h1 align="center">Hi there 👋 I'm ✨ Yosua Ricky ✨</h1>
 
 #### Welcome to my Github repository
 
