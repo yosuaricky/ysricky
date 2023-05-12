@@ -1,4 +1,4 @@
-<div align="center"><img src="/img/github-template-social-preview-removebg-preview.png" alt="profile image"></div>
+<div align="center"><img src="/img/github-template-social-preview.png" alt="profile image"></div>
 <p align="center"><strong>Hi there 👋 I'm ✨ Yosua Ricky ✨</strong></p>
 <br>
 <p align="center">Welcome to my Github repository</p>
