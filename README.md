@@ -4,4 +4,4 @@
 <br>
 <p align="center">Welcome to my Github repository</p>
 <br>
-<p align="center">Please visit <a href="[https://www.w3schools.com](https://ysricky.github.io/)">my portfolio website</a></p>
+<a href="[https://www.w3schools.com](https://ysricky.github.io/)">my portfolio website</a>
