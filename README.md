@@ -1,8 +1,4 @@
-<img
-  src="../img/github-template-social-preview.png"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+![My Image](img/github-template-social-preview.png)
 
 ### Hi there 👋 I'm ✨ Yosua Ricky ✨
 
